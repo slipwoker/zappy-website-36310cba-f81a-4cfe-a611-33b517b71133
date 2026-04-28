@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+וילה דניאל מציעה חופשה בלתי נשכחת עם בריכה פרטית בלב חד נס. נופש משפחתי ברמת הגולן, פרטיות מוחלטת ואווירה מפנקת. הזמינו עכשיו!
+
+### חוויית הווילה
+https://example.com/villa-experience
+גלו מה הופך את וילה דניאל לחוויה ייחודית: בריכה פרטית, עיצוב מפואר ושקט מוחלט בגולן. וילה יוקרה עם בריכה לשבת וחגים – ההזמנה הטובה ביותר שתעשו.
+
+### גלריה
+https://example.com/gallery
+גלריית התמונות של וילה דניאל חושפת כל פינה מפנקת: בריכה פרטית נוצצת, חדרים מעוצבים ונוף עוצר נשימה בחד נס. תנו לתמונות לדבר – ואז הזמינו.
+
+### צור קשר
+https://example.com/contact
+רוצים לשריין את וילה דניאל עם הבריכה הפרטית בחד נס? צרו איתנו קשר עוד היום לתאריכים, מחירים ופרטים נוספים. נופש חלומי בצפון מתחיל בהודעה אחת.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
